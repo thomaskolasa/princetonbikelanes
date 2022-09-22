@@ -31,7 +31,8 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
 6. Elm Rd:
    * The bike lanes do not offer protection. The northbound bike lane should be raised, meaning the curb should have been extended to the edge of the bike lane.
    * The south bound bike lane should also be raised to offer actual protection.
-7. 
+7. Rosedale Rd roundabout:
+   * After so much hard work, the community *completely* forgot that a bike path runs along the road. There needs to be a separate bike crossing next to the pedestrian crossing of General Johnson Rd. While the roundabout calms traffic without stopping it, the pedestrian crossing causes cyclists to nearly come to a complete stop before fighting pedestrians for space.
 
 ### FAQ
 <dl>
