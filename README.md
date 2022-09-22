@@ -28,7 +28,7 @@ Drivers don't like it either. Common bike traffic in bicycle lanes makes the Net
   <dd>Bungee cords. You can also buy a Wald pizza rack.</dd>
 
   <dt>But I have A LOT of stuff?</dt>
-  <dd>Cargo bike. [https://momentummag.com/cargo-bikes-guide-usa-canada/](https://momentummag.com/cargo-bikes-guide-usa-canada/)</dd>
+  <dd>Cargo bike. https://momentummag.com/cargo-bikes-guide-usa-canada/</dd>
   
   <dt>What if it's hot or I have to deal with hills?</dt>
   <dd>E-bike.</dd>  
