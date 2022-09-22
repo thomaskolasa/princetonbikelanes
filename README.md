@@ -19,6 +19,30 @@ Drivers don't like it either. Common bike traffic in bicycle lanes makes the Net
 2. ...
 3. ...
 
+### FAQ
+<dl>
+  <dt>What if it rains?</dt>
+  <dd>Keep rain pants in your bag and along with a seat cover. Spring Street Garage and Princeton Station have covered parking.</dd>
+  
+  <dt>How do I attach bags to a tiny cargo rack?</dt>
+  <dd>Bungee cords. You can also buy a Wald pizza rack.</dd>
+
+  <dt>But I have A LOT of stuff?</dt>
+  <dd>Cargo bike. [https://momentummag.com/cargo-bikes-guide-usa-canada/](https://momentummag.com/cargo-bikes-guide-usa-canada/)</dd>
+  
+  <dt>What if it's hot or I have to deal with hills?</dt>
+  <dd>E-bike.</dd>  
+  
+  <dt>But winter is cold?</dt>
+  <dd>It’s colder (and darker) in Scandinavia.</dd>
+
+  <dt>But my backpack is dark?</dt>
+  <dd>Buy a cheap reflective backpack cover.</dd>
+  
+  <dt>I want even more lights!</dt>
+  <dd>Buy funky strobe wheel lights.</dd>
+</dl>
+
 
 ### Sources:
 1. [Princeton Climate Action Plan (2019)](https://www.sustainableprinceton.org/wordpress/wp-content/uploads/2019/11/princeton-climate-action-plan-report.pdf)
