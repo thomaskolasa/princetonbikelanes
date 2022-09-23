@@ -43,7 +43,7 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
 ### FAQ
 <dl>
   <dt>What if it rains?</dt>
-  <dd>Keep rain pants in your bag and along with a seat cover. Spring Street Garage and Princeton Station have covered parking.</dd>
+  <dd>Keep rain pants in your bag along with a seat cover. Spring Street Garage and Princeton Station have covered parking.</dd>
   
   <dt>How do I attach bags to a tiny cargo rack?</dt>
   <dd>Bungee cords. You can also buy a Wald pizza rack.</dd>
@@ -64,7 +64,7 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
   <dd>Buy funky strobe wheel lights.</dd>
   
   <dt>What if helmets mess up my hair?</dt>
-  <dd>Buy a [Hövding](https://www.hovding.com), the airbag helmet.</dd>
+  <dd>Buy a Hövding, the airbag helmet (hovding.com).</dd>
 </dl>
 
 
@@ -74,4 +74,5 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
 
 ### YouTube Channels
 [The Life-Sized City](https://www.youtube.com/c/TheLifeSizedCity) by urban planner Mikael Colville-Andersen
+
 [Not Just Bikes](https://www.youtube.com/c/NotJustBikes) by a Canadian explaining Dutch biking infrastructure
