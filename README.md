@@ -26,7 +26,8 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
    * This wide street and cycling artery should have separated bike lanes going both directions.
    * They should be between parked cars and the sidewalk, offering the most protection and least stress.
 4. Paul Robeson Pl from 206 to Chambers St:
-   * There is space on both sides for raised bike lanes where cyclists would be protected by small curbs. If we only build it one way, that's a good start!
+   * There is space on both sides for raised bike lanes where cyclists would be protected by small curbs. If we only build it one way, that's a good start! Cars can continue to go the current speed limit of 25 MPH in the wide space left over.
+   ![Paul_Robeson_Pl](/assets/Paul_Robeson_Pl_drawing.png)
    * These can then be extended onto Hodge Rd.
 5. Route 206 from Bayard Ln to Edgerstoune Rd:
    * There is space for raised bike lanes in both directions along the road.
