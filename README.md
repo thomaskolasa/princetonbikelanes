@@ -17,6 +17,8 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
 
 1. Nassau St:
    * We need a protected bike lane going west. This doesn't require anything besides fresh paint from Moore St to Baryard Ln.
+   ![Nassau](/assets/Nassau_satellite.png)
+   ![Nassau_drawing](/assets/Nassau_satellite_drawing.png)
    * Likewise going east. This only needs fresh paint from University Pl to Charlton St.
 2. High School, Middle School, and Chior College area:
    * Moore St, Walnut Ln, and Franklin Ave need raised separated bike lanes to protect students during their commutes.
@@ -29,10 +31,14 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
 5. Route 206 from Bayard Ln to Edgerstoune Rd:
    * There is space for raised bike lanes in both directions along the road.
 6. Elm Rd:
+   ![Elm](/assets/Elm_bike_lane_drawing.png)
    * The bike lanes do not offer protection. The northbound bike lane should be raised, meaning the curb should have been extended to the edge of the bike lane.
    * The south bound bike lane should also be raised to offer actual protection.
 7. Rosedale Rd roundabout:
+   ![Rosedale](/assets/Rosedale_roundabout_drawing.jpg)
    * After so much hard work, the community *completely* forgot that a bike path runs along the road. There needs to be a separate bike crossing next to the pedestrian crossing of General Johnson Rd. While the roundabout calms traffic without stopping it, the pedestrian crossing causes cyclists to nearly come to a complete stop before fighting pedestrians for space.
+   * There are also some odd signs to remove nearby
+   ![stupid_sign](/assets/stupid_sign.jpg)
 
 ### FAQ
 <dl>
