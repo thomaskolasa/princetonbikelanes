@@ -35,8 +35,8 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
    * The bike lanes do not offer protection. The northbound bike lane should be raised, meaning the curb should have been extended to the edge of the bike lane.
    * The south bound bike lane should also be raised to offer actual protection.
 7. Rosedale Rd roundabout:
-   ![Rosedale](/assets/Rosedale_roundabout_drawing.jpg)
    * After so much hard work, the community *completely* forgot that a bike path runs along the road. There needs to be a separate bike crossing next to the pedestrian crossing of General Johnson Rd. While the roundabout calms traffic without stopping it, the pedestrian crossing causes cyclists to nearly come to a complete stop before fighting pedestrians for space.
+   ![Rosedale](/assets/Rosedale_roundabout_drawing.jpg)
    * There are also some odd signs to remove nearby
    ![stupid_sign](/assets/stupid_sign.jpg)
 
@@ -71,3 +71,7 @@ Drivers don't like it either. Casual bicycle traffic in bike lanes makes the Net
 ### Sources:
 1. [Princeton Climate Action Plan (2019)](https://www.sustainableprinceton.org/wordpress/wp-content/uploads/2019/11/princeton-climate-action-plan-report.pdf)
 2. [Princeton Bicycle Mobility Plan 2017](https://www.princetonnj.gov/658/Bicycle-MobilityStudy), and the [PDF](https://www.princetonnj.gov/DocumentCenter/View/1695/2017-Princeton-Bicycle-Mobility-Plan-PDF).
+
+### YouTube Channels
+[The Life-Sized City](https://www.youtube.com/c/TheLifeSizedCity) by urban planner Mikael Colville-Andersen
+[Not Just Bikes](https://www.youtube.com/c/NotJustBikes) by a Canadian explaining Dutch biking infrastructure
